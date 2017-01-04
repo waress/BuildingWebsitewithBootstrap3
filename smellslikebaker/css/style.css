@@ -1,1 +1,5 @@
-
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #FAF3BC;
+  background: #420600 url('img/bg-texture.jpg') repeat;
+}
