@@ -3,3 +3,17 @@ body {
   color: #FAF3BC;
   background: #420600 url('img/bg-texture.jpg') repeat;
 }
+.nav {
+  margin-top: 100px;
+}
+
+.nav li a,
+.nav li a:hover {
+  background: none;
+  color: #FAF3BC;
+  font-size: 1.1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Nunito', sans-serif;
+}
